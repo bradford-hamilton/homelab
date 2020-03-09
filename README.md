@@ -1,5 +1,6 @@
-## Homelab
+# Homelab
 
+## Parts
 1. UniFi Dream Machine Pro
 2. 2x UniFi PRO Access Point
 3. Antsle one XD (Red):
@@ -14,5 +15,7 @@
 ---
 ## status: waiting for the Antsle one XD to be delivered.
 ---
+
+**3/8/20** - Spin up an s3 compatible object store on the QNAP and test that I can communicate through a small Go program
 
 ![homelab](img/homelab.jpeg)
