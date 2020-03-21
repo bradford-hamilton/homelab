@@ -12,12 +12,10 @@
 5. QNAP 2 Bay NAS with 4TB Seagate IronWolf Drives
 6. NETGEAR Cable Modem CM1000
 
----
-## status: waiting for the Antsle one XD to be delivered.
----
-
 **3/7/20** - Set up disk mirroring (RAID 1) on the QNAP between the 2 4TB Seagate drives
 
 **3/8/20** - Spin up an s3 compatible object store on the QNAP and test that I can communicate through a small Go program
 
-![homelab](img/homelab.jpeg)
+**3/21/20** - Set up Antsle one XD
+
+![homelab](img/homelab_v1.jpeg)
