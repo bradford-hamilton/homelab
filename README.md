@@ -3,7 +3,7 @@
 ## Parts
 1. UniFi Dream Machine Pro
 2. 2x UniFi PRO Access Points
-3. Antsle one XD (Red):
+3. Antsle one XD:
     - 4 Cores (8 Threads)
     - 32GB DDR4 ECC RAM
     - 2 x 250GB SSD
