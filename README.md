@@ -12,6 +12,7 @@
 5. QNAP 2 Bay NAS with 4TB Seagate IronWolf Drives
 6. NETGEAR Cable Modem CM1000
 7. 3x 8GB Raspberry Pi 4
+8. 3x [S2PI ice tower CPU cooling fans](https://www.seeedstudio.com/ICE-Tower-CPU-Cooling-Fan-for-Raspberry-Pi-Support-Pi-4-p-4097.html)
 
 **3/7/20** - Set up disk mirroring (RAID 1) on the QNAP between the 2 4TB Seagate drives
 
@@ -21,6 +22,11 @@
 
 **6/9/20** - Add 3x 8GB Raspberry Pi 4 (k8s cluster) to the network
 
+## Homelab
 ![homelab](img/homelab_v1.jpeg)
+
+## Kubernetes cluster
+Just got these CPU cooling fan heatsinks for the pis and they are awesome!
+Dropped temps ~25 degrees when I did a quick test.
 
 ![new k8s cluster](img/k8s_cluster.jpg)
