@@ -11,6 +11,7 @@
 4. Monoprice 9U 450mm Depth Server Cabinet
 5. QNAP 2 Bay NAS with 4TB Seagate IronWolf Drives
 6. NETGEAR Cable Modem CM1000
+7. 3x 8GB Raspberry Pi 4
 
 **3/7/20** - Set up disk mirroring (RAID 1) on the QNAP between the 2 4TB Seagate drives
 
@@ -18,4 +19,8 @@
 
 **3/21/20** - Set up Antsle one XD
 
+**6/9/20** - Add 3x 8GB Raspberry Pi 4 (k8s cluster) to the network
+
 ![homelab](img/homelab_v1.jpeg)
+
+![new k8s cluster](img/k8s_cluster.jpg)
