@@ -16,17 +16,19 @@
 
 **3/7/20** - Set up disk mirroring (RAID 1) on the QNAP between the 2 4TB Seagate drives
 
-**3/8/20** - Spin up an s3 compatible object store on the QNAP and test that I can communicate through a small Go program
+**3/8/20** - Spin up an s3 compatible object store on the QNAP and test that I can communicate through Go & Rust programs
 
 **3/21/20** - Set up Antsle one XD
 
 **6/9/20** - Add 3x 8GB Raspberry Pi 4 (k8s cluster) to the network
+
+**10/16/20** - Remove k8s from the raspberry pis in favor of starting to create my own personal cloud. Starting to research what it would look like to build with Go & libvirt... Then even further out, I'd love to build GUI for it.
 
 ## Homelab
 ![homelab](img/homelab_v1.jpeg)
 
 ## Kubernetes cluster
 Just got these CPU cooling fan heatsinks for the pis and they are awesome!
-Dropped temps ~25 degrees when I did a quick test.
+Dropped temps ~25 degrees during a quick test.
 
 ![new k8s cluster](img/k8s_cluster.jpg)
